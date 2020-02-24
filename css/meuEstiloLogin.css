@@ -1,0 +1,22 @@
+body{
+  background-image: linear-gradient(to top, #fddb92 0%, #d1fdff 100%);
+  padding-bottom: 277px;
+}
+
+#loginContairner {
+   background-color: white;
+    width: 30%;
+    margin-top: 200px;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 3px;
+    padding-bottom: 10px;
+}
+#loginBg
+{
+    background-color: #002905;
+}
+
+.form-group {
+    margin-bottom: 0px;
+}

@@ -1,0 +1,23 @@
+body{
+  background-image: linear-gradient(to top, #fddb92 0%, #d1fdff 100%);
+  padding-bottom: 55px;
+}
+.form-group {
+    margin-bottom: 0px;
+}
+#cadastroContainer{
+   background-color: white;
+    width: 30%;
+    margin-top: 50px;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 3px;
+    padding-bottom: 10px;
+}
+ 
+#cadastroSexo{
+    padding-right: 30px;
+}
+#divcadastroSexo{
+    padding-left: 0px;
+}
